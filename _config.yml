@@ -1,0 +1,64 @@
+# Site settings
+title: "Jeremy Tang"
+description: "Software Engineer Portfolio & Blog"
+url: "https://jeremyt0.github.io"
+baseurl: ""
+
+# Author information
+author:
+  name: "Jeremy Tang"
+  email: "" # Add your email if you want
+  github: "jeremyt0"
+  linkedin: "jeremytang0"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - astro/ # Keep the old Astro files for reference
+  - v001/ # Legacy version 0.0.1
+  - v002/ # Legacy version 0.0.2
+  - ThreeJS/ # Legacy Three.js projects
+
+# Include files
+include:
+  - _pages
+
+# Sass/SCSS settings
+sass:
+  load_paths:
+    - _sass
+  style: compressed
+
+# Pagination (optional, for blog listing)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Custom variables
+social_links:
+  github: "https://github.com/jeremyt0"
+  linkedin: "https://linkedin.com/in/jeremytang0"
