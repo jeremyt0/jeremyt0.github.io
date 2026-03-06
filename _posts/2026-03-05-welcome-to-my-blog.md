@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: 2025-03-04
+date: 2026-03-05
 categories: [personal, blog]
 tags: [jekyll, github-pages, personal]
 excerpt: "Starting my journey with blogging about software engineering, technology, and life experiences."
@@ -20,7 +20,7 @@ This blog will cover:
 
 ## Why Now?
 
-After working in startups and now at a travel tech company, I've accumulated many insights that I want to share. Writing helps me organize my thoughts and hopefully helps others on similar journeys.
+After working in startups, I've accumulated many insights that I want to share. Writing helps me organize my thoughts and hopefully helps others on similar journeys.
 
 ## Technical Details
 
