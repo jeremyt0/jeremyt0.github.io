@@ -5,7 +5,7 @@ Personal website and blog built with Jekyll.
 ## Live Site
 
 - **[Homepage](https://jeremyt0.github.io/)**
-- **[Blog](https://jeremyt0.github.io/blog/)**
+- **[Blog](https://jeremyt0.github.io/categories/blog/)**
 
 
 ## Legacy Versions

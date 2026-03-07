@@ -1,8 +1,9 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm Jeremy Tang — a software engineer based in London, United Kingdom.
+
+I enjoy building reliable backend systems and exploring new technologies. This site is a space where I share my projects, thoughts, and things I find interesting along the way.
